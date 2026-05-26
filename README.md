@@ -1,7 +1,7 @@
-## Exp 8: Reproducing an Image Using Prompts for Image Generation
+# Exp 8: Reproducing an Image Using Prompts for Image Generation
 
-# Date :
-# Reg. No. 
+# NAME: Persys freeda J
+# REG NUM:212224060185
 
 ## Aim:
 To demonstrate the ability of text-to-image generation tools to reproduce an existing image by crafting precise prompts. The goal is to identify key elements within the image and use these details to generate an image as close as possible to the original.
@@ -53,3 +53,19 @@ By using detailed and well-crafted prompts, text-to-image generation models can 
 
 
 ## IMAGES: (CHOOSE ANY TWO BELOW AND REPRODUCE)
+
+# Basic prompt:
+               Create an image that the spider man help the iron man.
+
+# output:<img width="1024" height="1024" alt="basic image" src="https://github.com/user-attachments/assets/44a3ac9b-438b-4a8d-a2b3-dfcc9c439ac9" />
+
+# First generative AI image prompt:
+               Ceate an image that the spider man wearing an iron spider nano suit and he helping to ironman in space. 
+
+# output:<img width="1024" height="1024" alt="First ai iamage" src="https://github.com/user-attachments/assets/c698034c-c138-4d1b-8d8e-251fbc141722" />
+
+# Second generative AI image promt:
+               Create an image that the spider man helps to iron man and dt.strange to defeat thanos.
+
+# output:<img width="1024" height="1024" alt="Second AI image" src="https://github.com/user-attachments/assets/45c678d7-65fa-4f19-b50b-b53441ce2b3e" />
+
